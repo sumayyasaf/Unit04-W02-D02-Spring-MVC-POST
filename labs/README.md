@@ -1,7 +1,3 @@
-Sure! Here's a **Day 2 lab** that builds directly on top of the lab you described. It assumes students have already completed a Spring Boot app that displays a list of books and now need to add functionality for submitting new books via a form.
-
----
-
 ## Lab: Add Book Form to Your Book List Web App
 
 ### Learning Objectives:
